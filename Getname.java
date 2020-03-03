@@ -1,0 +1,3 @@
+interface Getname{
+        String getName();
+        }
